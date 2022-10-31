@@ -1,6 +1,6 @@
 ### <h1 align="center">Hi there I'm Ahmed👋 </h1>
 
-<div align="center">
+<div align="center" margin-top="40px">
   <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="500" height="300"/>
 </div>
 ###  A little more about me...  
