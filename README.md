@@ -3,6 +3,10 @@
 
 <h3>  A little more about me... </h3>  
 
+<p align="left">
+<a href="https://www.linkedin.com/in/youssef-mahmoud-ahmed/" target="_blank"><img src="https://img.shields.io/badge/-Ahmed%20Khaled-blue?style=flat&logo=Linkedin&logoColor=white"/></a>
+</p>
+
 
 
 - 🔭 I’m currently studying computer engineering
