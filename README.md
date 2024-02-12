@@ -23,9 +23,9 @@
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
 ![python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)&nbsp;
 ![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)&nbsp;</br>
-
-![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
 ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white)
+![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
+
 <div align="center" >
   <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="500" height="300"/>
 </div>
