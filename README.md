@@ -1,4 +1,4 @@
-### <h1 align="center">Hi there I'm Ahmed👋 </h1>
+### <h1 align="center">👋 Hi, I’m Ahmed Shalaby — a passionate Software Engineer and Computer Engineering Graduate from Ain Shams University and University of East London. </h1>
 
 
 <h3>  A little more about me... </h3>  
@@ -9,8 +9,17 @@
 
 
 
-- 🔭 I’m currently studying computer engineering
-- 🌱 I’m currently learning web development 
+💻 What I do:
+
+- Develop and deploy ML models for prediction, classification, and NLP tasks.
+
+- Work with Python, NumPy, Pandas, Matplotlib, Seaborn, and Scikit-learn.
+
+- Explore Deep Learning, Transformers, and Time Series Analysis.
+
+🚀 Interests: Data-driven decision systems, Generative AI, and model deployment.
+
+📊 Always learning and experimenting with new ways to extract value from data.
 
 
 ### 🛠 &nbsp;Tech Stack
