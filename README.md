@@ -1,4 +1,4 @@
-### <h1 align="center">👋 Hi, I’m Ahmed Shalaby — a passionate Software Engineer and Computer Engineering Graduate from Ain Shams University and University of East London. </h1>
+### <h1 align="center">👋 I’m Ahmed Shalaby, a Software Engineer who loves turning data into intelligent solutions. </h1>
 
 
 <h3>  A little more about me... </h3>  
