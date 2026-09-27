@@ -2,7 +2,7 @@
 <h3 align="center">Building intelligent systems that understand, generate, and interact with human language</h3>
 
 <p align="center">
-<a href="https://www.linkedin.com/in/ahmed-khaled-b80aa8271/" target="_blank"><img src="https://img.shields.io/badge/-Ahmed%20Khaled-blue?style=flat&logo=Linkedin&logoColor=white"/></a>
+<a href="[https://www.linkedin.com/in/ahmed-khaled-b80aa8271/](https://www.linkedin.com/in/ahmed-shalaby-b80aa8271/)" target="_blank"><img src="https://img.shields.io/badge/-Ahmed%20Shalaby-blue?style=flat&logo=Linkedin&logoColor=white"/></a>
 <a href="https://github.com/Ahmedkhaledd1" target="_blank"><img src="https://img.shields.io/badge/-GitHub-black?style=flat&logo=github&logoColor=white"/></a>
 <img src="https://komarev.com/ghpvc/?username=Ahmedkhaledd1&label=Profile%20Views&color=0e75b6&style=flat" alt="profile views" />
 </p>
